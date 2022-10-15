@@ -11,7 +11,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://static.wixstatic.com/media/36e3f0_a62d7f167276440badf958656727d6d4~mv2.png/v1/fill/w_562,h_204,al_c,q_85,usm_2.00_1.00_0.00,enc_auto/logovamoshorizontalsolo1.png" alt="Logo" width="80" height="80">
+    <img src="https://static.wixstatic.com/media/36e3f0_a62d7f167276440badf958656727d6d4~mv2.png/v1/fill/w_562,h_204,al_c,q_85,usm_2.00_1.00_0.00,enc_auto/logovamoshorizontalsolo1.png" alt="Logo" width="240" height="80">
   </a>
 
   <h3 align="center">Team Vamos</h3>
